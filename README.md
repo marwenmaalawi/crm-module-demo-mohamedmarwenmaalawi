@@ -76,7 +76,6 @@ crm-module-demo-marwen/
 │  ├─ app/               # routes (dashboard, opportunités, détail, formulaire)
 │  ├─ components/        # UI (badges, table, filtres, formulaire, KPI…)
 │  └─ lib/               # client API typé, i18n, formatage
-├─ docs/                 # notes internes (analyse, UX/IA)
 ├─ docker-compose.yml
 ├─ DECISIONS.md  ARCHITECTURE.md  FUTURE_EVOLUTION.md
 └─ README.md
@@ -143,7 +142,6 @@ Détails (payloads, codes HTTP, enveloppe d'erreur) : [`ARCHITECTURE.md`](./ARCH
 - [`DECISIONS.md`](./DECISIONS.md) — hypothèses et arbitrages (le cœur de l'exercice).
 - [`ARCHITECTURE.md`](./ARCHITECTURE.md) — architecture, modèle de données, API, stratégies transverses.
 - [`FUTURE_EVOLUTION.md`](./FUTURE_EVOLUTION.md) — pistes d'évolution assumées.
-- [`docs/`](./docs) — notes internes (analyse de l'énoncé, UX / IA).
 
 ---
 
